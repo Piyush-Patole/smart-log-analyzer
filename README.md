@@ -11,10 +11,10 @@ An intelligent log file analysis tool that parses unstructured logs, classifies 
 
 ## 🚀 Project Motivation
 
-I built this project as a **Tech Associate** with 1 year of experience, with the goal of:
+I built this project with the goal of:
 - Strengthening skills in Python, NLP, and data engineering
 - Creating a job-ready portfolio project
-- Solving a real-world problem: **debugging logs efficiently**
+- Solving a real-world problem: debugging logs efficiently
 
 ---
 

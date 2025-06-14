@@ -1,0 +1,7 @@
+line,level,message,category,suggestion,reference
+"[ERROR] 2025-06-06 10:00:01 - Failed to connect to database
+",ERROR,Failed to connect to database,Database Error,"Check DB connection string, credentials, and network access.",https://stackoverflow.com/questions/tagged/database
+"[WARNING] 2025-06-06 10:01:15 - High memory usage
+",WARNING,High memory usage,Unknown,Try debugging manually or consult logs for more context.,https://stackoverflow.com/
+"[INFO] 2025-06-06 10:02:30 - Service started
+",INFO,Service started,Unknown,Try debugging manually or consult logs for more context.,https://stackoverflow.com/

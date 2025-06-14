@@ -193,31 +193,4 @@ Generates:
 * [Seaborn Visualization](https://seaborn.pydata.org/)
 * Stack Overflow patterns dataset (self-curated)
 
----
 
-## 💼 Use in Your Resume or Portfolio
-
-You can showcase this project as:
-
-> **"Built a Smart Log Analyzer in Python using NLP and data visualization to automate log parsing, classification, and solution mapping. Inspired by Salesforce LogAI. Delivered modular design with CSV/JSON reports and visual charts."**
-
----
-
-## 📬 Contact
-
-**Author**: Piyush Patole
-**Email**: [your.email@example.com](mailto:your.email@example.com)
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-```
-
----
-
-### ✅ Next Steps
-- Replace `your.email@example.com` and GitHub links with your info.
-- Want me to turn this into a GitHub `README.md` with badges and interactive demo support? I can help with that too.
-
-Would you like a one-liner version of this project for your resume as well?
-```

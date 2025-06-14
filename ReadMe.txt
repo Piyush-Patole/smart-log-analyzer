@@ -1,11 +1,9 @@
-Here is a **detailed, job-focused `README.md`** for your **Smart Log Analyzer with AI Suggestions** project. This includes: overview, motivation, features, architecture, setup instructions, usage guide, examples, tech stack explanation, credits, and more.
+🧠 Disclaimer
+This project was created based on my original idea and developed with the assistance of AI tools, including ChatGPT by OpenAI. I used AI primarily to help with code generation, bug fixing, and writing documentation. All architectural decisions, problem statements, and final integrations were made by me, demonstrating my ability to leverage advanced tools effectively in real-world software development.
 
----
 
-### 📁 `README.md`
 
-```markdown
-# 🔍 Smart Log Analyzer with AI Suggestions
+## 🔍 Smart Log Analyzer with AI Suggestions
 
 An intelligent log file analysis tool that parses unstructured logs, classifies errors using NLP, and generates fix suggestions—automating part of the debugging process. Designed for DevOps, SREs, and developers to save time on log analysis and issue resolution.
 
